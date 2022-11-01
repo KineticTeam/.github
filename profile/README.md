@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background-color: #0f4c64;">
     <img src="https://www.kinetic.com/wp-content/uploads/2021/04/rgb-kinetic-logo-horizontal-white-copy.jpg" alt="Kinetic" width="410">
 </p>
 
